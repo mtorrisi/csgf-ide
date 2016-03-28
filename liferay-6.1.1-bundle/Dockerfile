@@ -1,10 +1,11 @@
 #
+# Creates 
 # Liferay 6.1.1 Dockerfile
 #
 
 FROM u1404/oracle_jdk7
 
-MAINTAINER Mario Torrisi <smario.torrisi@ct.infn.it>
+MAINTAINER Mario Torrisi <mario.torrisi@ct.infn.it>
 
 RUN apt-get update && apt-get install -y unzip
 
