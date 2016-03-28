@@ -1,4 +1,2 @@
-# winterchool-docker
-Contains useful docker for Sci-GaIA Winter school
-
-
+# csgf-ide
+Contains useful docker file for Sci-GaIA Winter school
